@@ -28,5 +28,10 @@ public class Main {
         for (String test : tests) {
             System.out.println("\"" + test + "\" is palindrome: " + TextUtils.isPalindrome(test));
         }
+        // Demo: toUpperCase
+        String lowerCaseWord = "hello java";
+        System.out.println("Original:        " + lowerCaseWord);
+        System.out.println("Uppercase:       " + TextUtils.toUpperCase(lowerCaseWord));
+        System.out.println();
     }
 }
