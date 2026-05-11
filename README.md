@@ -5,15 +5,19 @@ Developed as part of **SWE 442 — Software Configuration Management**.
 
 ---
 
-## 👥 Group Members
+## Group Members
+
 
 - Member 1 — [Name]
+
+- Elias Dhafer Alsirhani
+
 - Ziad Ali Al-Shammari
 - Member 3 — [Name]
 
 ---
 
-## 📌 What Does This Tool Do?
+## What Does This Tool Do?
 
 TextUtils is a lightweight Java utility that helps process and analyze text strings. It currently supports:
 
@@ -23,7 +27,7 @@ TextUtils is a lightweight Java utility that helps process and analyze text stri
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SCM442-JavaTool/
@@ -35,7 +39,7 @@ SCM442-JavaTool/
 
 ---
 
-## ⚙️ How to Compile and Run
+## How to Compile and Run
 
 Make sure you have **Java (JDK 8 or higher)** installed.
 
@@ -66,7 +70,7 @@ Word count:      5
 
 ---
 
-## 🌿 Branching Strategy
+## Branching Strategy
 
 This project follows a feature branching workflow:
 
@@ -78,15 +82,9 @@ This project follows a feature branching workflow:
 
 ---
 
-## 🏷️ Releases
+## Releases
 
 | Tag | Description |
 |---|---|
 | `v1.0` | Initial release with basic project setup |
 | `v1.1` | Feature update — added reverseString and countWords |
-
----
-
-## 📄 License
-
-This project is for academic purposes only — SWE 442, Spring 2026.

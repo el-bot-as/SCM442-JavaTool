@@ -44,8 +44,15 @@ public class TextUtils {
         String reversed = new StringBuilder(cleaned).reverse().toString();
         return cleaned.equals(reversed);
     }
+
+    public static String toLowerCase(String input) {
+    if (input == null) return null;
+    return input.toLowerCase();
+}
+
     public static String toUpperCase(String input) {
         if (input == null) return null;
         return input.toUpperCase();
     }
+
 }
