@@ -8,7 +8,7 @@ Developed as part of **SWE 442 — Software Configuration Management**.
 ## Group Members
 
 - Elias Dhafer Alsirhani
-- Member 2 — [Name]
+- Ziad Ali Al-Shammari
 - Member 3 — [Name]
 
 ---
